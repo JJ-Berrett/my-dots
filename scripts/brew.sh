@@ -8,6 +8,7 @@ fi
 brew update
 brew tap "Homebrew/bundle"
 brew upgrade -y
+brew instal mas
 
 brew bundle --global
 brew link "git"
