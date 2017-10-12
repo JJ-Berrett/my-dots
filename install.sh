@@ -7,7 +7,6 @@ sh $PWD/scripts/personal-settings.sh
 echo "installing brew"
 sh $PWD/scripts/brew.sh
 
-echo "installing zsh"
 sh $PWD/scripts/zsh.sh
 
 echo "installing mac settings"
