@@ -17,3 +17,4 @@ cask "duet"
 cask "parallels-desktop"
 cask "postman"
 
+mas "Xcode", id: 497799835
